@@ -1,0 +1,7 @@
+numpy
+opencv-python
+scikit-image
+tensorflow-macos
+tensorflow-metal
+matplotlib
+pandas
