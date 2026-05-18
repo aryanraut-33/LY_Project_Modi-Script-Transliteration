@@ -1,0 +1,269 @@
+Epoch 1/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0251 - loss: 4.0473
+Epoch 1: val_accuracy improved from None to 0.01491, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 1: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 168s 4s/step - accuracy: 0.0219 - loss: 4.0458 - val_accuracy: 0.0149 - val_loss: 4.1047 - learning_rate: 1.0000e-04
+Epoch 2/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0180 - loss: 4.0301
+Epoch 2: val_accuracy improved from 0.01491 to 0.03509, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 2: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.0237 - loss: 4.0113 - val_accuracy: 0.0351 - val_loss: 3.9444 - learning_rate: 1.0000e-04
+Epoch 3/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0235 - loss: 3.8663
+Epoch 3: val_accuracy did not improve from 0.03509
+36/36 ━━━━━━━━━━━━━━━━━━━━ 123s 3s/step - accuracy: 0.0289 - loss: 3.8234 - val_accuracy: 0.0219 - val_loss: 4.4613 - learning_rate: 1.0000e-04
+Epoch 4/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0495 - loss: 3.6267
+Epoch 4: val_accuracy did not improve from 0.03509
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.0465 - loss: 3.5926 - val_accuracy: 0.0272 - val_loss: 4.2563 - learning_rate: 1.0000e-04
+Epoch 5/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0619 - loss: 3.4857
+Epoch 5: val_accuracy improved from 0.03509 to 0.04035, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 5: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 125s 4s/step - accuracy: 0.0640 - loss: 3.4627 - val_accuracy: 0.0404 - val_loss: 4.0442 - learning_rate: 1.0000e-04
+Epoch 6/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0674 - loss: 3.3139
+Epoch 6: val_accuracy improved from 0.04035 to 0.08333, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 6: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 128s 4s/step - accuracy: 0.0684 - loss: 3.3197 - val_accuracy: 0.0833 - val_loss: 3.2889 - learning_rate: 1.0000e-04
+Epoch 7/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0767 - loss: 3.2111
+Epoch 7: val_accuracy did not improve from 0.08333
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.0772 - loss: 3.2157 - val_accuracy: 0.0386 - val_loss: 4.8160 - learning_rate: 1.0000e-04
+Epoch 8/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0753 - loss: 3.1465
+Epoch 8: val_accuracy did not improve from 0.08333
+36/36 ━━━━━━━━━━━━━━━━━━━━ 125s 3s/step - accuracy: 0.0781 - loss: 3.1418 - val_accuracy: 0.0675 - val_loss: 3.2853 - learning_rate: 1.0000e-04
+Epoch 9/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1147 - loss: 3.0544
+Epoch 9: val_accuracy did not improve from 0.08333
+36/36 ━━━━━━━━━━━━━━━━━━━━ 125s 3s/step - accuracy: 0.1088 - loss: 3.0362 - val_accuracy: 0.0649 - val_loss: 3.5661 - learning_rate: 1.0000e-04
+Epoch 10/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.0916 - loss: 3.0280
+Epoch 10: val_accuracy did not improve from 0.08333
+36/36 ━━━━━━━━━━━━━━━━━━━━ 125s 3s/step - accuracy: 0.1026 - loss: 3.0204 - val_accuracy: 0.0289 - val_loss: 11.8497 - learning_rate: 1.0000e-04
+Epoch 11/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1062 - loss: 2.9761
+Epoch 11: val_accuracy did not improve from 0.08333
+36/36 ━━━━━━━━━━━━━━━━━━━━ 125s 3s/step - accuracy: 0.1044 - loss: 3.0017 - val_accuracy: 0.0596 - val_loss: 3.3254 - learning_rate: 1.0000e-04
+Epoch 12/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1259 - loss: 2.8963
+Epoch 12: val_accuracy improved from 0.08333 to 0.11228, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 12: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.1167 - loss: 2.9099 - val_accuracy: 0.1123 - val_loss: 2.9574 - learning_rate: 1.0000e-04
+Epoch 13/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1468 - loss: 2.7986
+Epoch 13: val_accuracy did not improve from 0.11228
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.1447 - loss: 2.8343 - val_accuracy: 0.1018 - val_loss: 3.4343 - learning_rate: 1.0000e-04
+Epoch 14/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1472 - loss: 2.7078
+Epoch 14: val_accuracy did not improve from 0.11228
+36/36 ━━━━━━━━━━━━━━━━━━━━ 125s 3s/step - accuracy: 0.1482 - loss: 2.7340 - val_accuracy: 0.0482 - val_loss: 3.7177 - learning_rate: 1.0000e-04
+Epoch 15/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1611 - loss: 2.7315
+Epoch 15: val_accuracy did not improve from 0.11228
+36/36 ━━━━━━━━━━━━━━━━━━━━ 124s 3s/step - accuracy: 0.1632 - loss: 2.6962 - val_accuracy: 0.0781 - val_loss: 3.2943 - learning_rate: 1.0000e-04
+Epoch 16/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1950 - loss: 2.5909
+Epoch 16: val_accuracy improved from 0.11228 to 0.17368, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 16: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.1860 - loss: 2.6124 - val_accuracy: 0.1737 - val_loss: 2.6721 - learning_rate: 1.0000e-04
+Epoch 17/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.1870 - loss: 2.5101
+Epoch 17: val_accuracy did not improve from 0.17368
+36/36 ━━━━━━━━━━━━━━━━━━━━ 138s 4s/step - accuracy: 0.1789 - loss: 2.5615 - val_accuracy: 0.1491 - val_loss: 2.9452 - learning_rate: 1.0000e-04
+Epoch 18/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2060 - loss: 2.4652
+Epoch 18: val_accuracy improved from 0.17368 to 0.18158, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 18: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 142s 4s/step - accuracy: 0.2175 - loss: 2.3995 - val_accuracy: 0.1816 - val_loss: 2.4777 - learning_rate: 1.0000e-04
+Epoch 19/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2030 - loss: 2.4458
+Epoch 19: val_accuracy improved from 0.18158 to 0.22456, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 19: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 144s 4s/step - accuracy: 0.2105 - loss: 2.4318 - val_accuracy: 0.2246 - val_loss: 2.4055 - learning_rate: 1.0000e-04
+Epoch 20/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2242 - loss: 2.3181
+Epoch 20: val_accuracy did not improve from 0.22456
+36/36 ━━━━━━━━━━━━━━━━━━━━ 140s 4s/step - accuracy: 0.2061 - loss: 2.3087 - val_accuracy: 0.1114 - val_loss: 3.1674 - learning_rate: 1.0000e-04
+Epoch 21/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2554 - loss: 2.2517
+Epoch 21: val_accuracy did not improve from 0.22456
+36/36 ━━━━━━━━━━━━━━━━━━━━ 139s 4s/step - accuracy: 0.2298 - loss: 2.2972 - val_accuracy: 0.2167 - val_loss: 2.4429 - learning_rate: 1.0000e-04
+Epoch 22/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2695 - loss: 2.1453
+Epoch 22: val_accuracy did not improve from 0.22456
+36/36 ━━━━━━━━━━━━━━━━━━━━ 131s 4s/step - accuracy: 0.2640 - loss: 2.1527 - val_accuracy: 0.1316 - val_loss: 3.2734 - learning_rate: 1.0000e-04
+Epoch 23/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2975 - loss: 2.0868
+Epoch 23: val_accuracy improved from 0.22456 to 0.26140, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 23: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.2623 - loss: 2.1716 - val_accuracy: 0.2614 - val_loss: 2.2057 - learning_rate: 1.0000e-04
+Epoch 24/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2756 - loss: 2.0894
+Epoch 24: val_accuracy did not improve from 0.26140
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.2614 - loss: 2.1056 - val_accuracy: 0.1184 - val_loss: 3.4504 - learning_rate: 1.0000e-04
+Epoch 25/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.3203 - loss: 1.9499
+Epoch 25: val_accuracy improved from 0.26140 to 0.28246, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 25: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.2833 - loss: 2.0610 - val_accuracy: 0.2825 - val_loss: 2.1388 - learning_rate: 1.0000e-04
+Epoch 26/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2900 - loss: 1.9541
+Epoch 26: val_accuracy did not improve from 0.28246
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.2921 - loss: 1.9850 - val_accuracy: 0.2018 - val_loss: 2.6726 - learning_rate: 1.0000e-04
+Epoch 27/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.2782 - loss: 1.9816
+Epoch 27: val_accuracy did not improve from 0.28246
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.2991 - loss: 1.9646 - val_accuracy: 0.2430 - val_loss: 2.2666 - learning_rate: 1.0000e-04
+Epoch 28/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.3270 - loss: 1.8305
+Epoch 28: val_accuracy did not improve from 0.28246
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.3228 - loss: 1.8901 - val_accuracy: 0.2123 - val_loss: 2.7637 - learning_rate: 1.0000e-04
+Epoch 29/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.3232 - loss: 1.8815
+Epoch 29: val_accuracy improved from 0.28246 to 0.33860, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 29: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 128s 4s/step - accuracy: 0.3219 - loss: 1.8504 - val_accuracy: 0.3386 - val_loss: 2.0063 - learning_rate: 1.0000e-04
+Epoch 30/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.3700 - loss: 1.6235
+Epoch 30: val_accuracy did not improve from 0.33860
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.3596 - loss: 1.6869 - val_accuracy: 0.2754 - val_loss: 2.2191 - learning_rate: 1.0000e-04
+Epoch 31/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.3753 - loss: 1.7296
+Epoch 31: val_accuracy did not improve from 0.33860
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.3447 - loss: 1.8084 - val_accuracy: 0.2825 - val_loss: 2.2899 - learning_rate: 1.0000e-04
+Epoch 32/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.3350 - loss: 1.7552
+Epoch 32: val_accuracy did not improve from 0.33860
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.3518 - loss: 1.7490 - val_accuracy: 0.3263 - val_loss: 1.9836 - learning_rate: 1.0000e-04
+Epoch 33/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4025 - loss: 1.6089
+Epoch 33: val_accuracy did not improve from 0.33860
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.3851 - loss: 1.6413 - val_accuracy: 0.2719 - val_loss: 2.2105 - learning_rate: 1.0000e-04
+Epoch 34/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.3896 - loss: 1.6085
+Epoch 34: val_accuracy did not improve from 0.33860
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.3763 - loss: 1.6391 - val_accuracy: 0.2974 - val_loss: 2.2704 - learning_rate: 1.0000e-04
+Epoch 35/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4259 - loss: 1.5579
+Epoch 35: val_accuracy improved from 0.33860 to 0.35877, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 35: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.4061 - loss: 1.6604 - val_accuracy: 0.3588 - val_loss: 2.0111 - learning_rate: 1.0000e-04
+Epoch 36/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4547 - loss: 1.4400
+Epoch 36: val_accuracy improved from 0.35877 to 0.42544, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 36: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.4526 - loss: 1.4462 - val_accuracy: 0.4254 - val_loss: 1.7894 - learning_rate: 1.0000e-04
+Epoch 37/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4181 - loss: 1.5244
+Epoch 37: val_accuracy did not improve from 0.42544
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.4105 - loss: 1.5472 - val_accuracy: 0.3167 - val_loss: 2.3143 - learning_rate: 1.0000e-04
+Epoch 38/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4665 - loss: 1.4034
+Epoch 38: val_accuracy did not improve from 0.42544
+36/36 ━━━━━━━━━━━━━━━━━━━━ 125s 4s/step - accuracy: 0.4632 - loss: 1.4116 - val_accuracy: 0.3070 - val_loss: 2.4340 - learning_rate: 1.0000e-04
+Epoch 39/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4618 - loss: 1.5165
+Epoch 39: val_accuracy did not improve from 0.42544
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.4623 - loss: 1.4772 - val_accuracy: 0.2640 - val_loss: 2.4169 - learning_rate: 1.0000e-04
+Epoch 40/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4967 - loss: 1.3343
+Epoch 40: val_accuracy did not improve from 0.42544
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.4719 - loss: 1.3986 - val_accuracy: 0.4070 - val_loss: 1.8360 - learning_rate: 1.0000e-04
+Epoch 41/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.4922 - loss: 1.3830
+Epoch 41: val_accuracy improved from 0.42544 to 0.43947, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 41: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+
+Epoch 41: ReduceLROnPlateau reducing learning rate to 4.999999873689376e-05.
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.4868 - loss: 1.3946 - val_accuracy: 0.4395 - val_loss: 1.8452 - learning_rate: 1.0000e-04
+Epoch 42/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5661 - loss: 1.1928
+Epoch 42: val_accuracy did not improve from 0.43947
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.5675 - loss: 1.2011 - val_accuracy: 0.2789 - val_loss: 2.6948 - learning_rate: 5.0000e-05
+Epoch 43/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6165 - loss: 1.0700
+Epoch 43: val_accuracy did not improve from 0.43947
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.5851 - loss: 1.1006 - val_accuracy: 0.4254 - val_loss: 1.9534 - learning_rate: 5.0000e-05
+Epoch 44/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5849 - loss: 1.1038
+Epoch 44: val_accuracy did not improve from 0.43947
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.5851 - loss: 1.0934 - val_accuracy: 0.4105 - val_loss: 1.9809 - learning_rate: 5.0000e-05
+Epoch 45/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.5723 - loss: 1.1777
+Epoch 45: val_accuracy improved from 0.43947 to 0.49035, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 45: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 129s 4s/step - accuracy: 0.6035 - loss: 1.0902 - val_accuracy: 0.4904 - val_loss: 1.6963 - learning_rate: 5.0000e-05
+Epoch 46/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6314 - loss: 0.9720
+Epoch 46: val_accuracy improved from 0.49035 to 0.53070, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 46: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 128s 4s/step - accuracy: 0.6298 - loss: 1.0005 - val_accuracy: 0.5307 - val_loss: 1.5757 - learning_rate: 5.0000e-05
+Epoch 47/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6295 - loss: 1.0318
+Epoch 47: val_accuracy did not improve from 0.53070
+36/36 ━━━━━━━━━━━━━━━━━━━━ 127s 4s/step - accuracy: 0.6158 - loss: 1.0511 - val_accuracy: 0.2675 - val_loss: 3.2197 - learning_rate: 5.0000e-05
+Epoch 48/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6398 - loss: 1.0004
+Epoch 48: val_accuracy did not improve from 0.53070
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.6158 - loss: 1.0257 - val_accuracy: 0.5202 - val_loss: 1.6859 - learning_rate: 5.0000e-05
+Epoch 49/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.7125 - loss: 0.8277
+Epoch 49: val_accuracy improved from 0.53070 to 0.56579, saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+Epoch 49: finished saving model to MODI_HChar\models\InceptionResNetV2_stage3_best.h5
+36/36 ━━━━━━━━━━━━━━━━━━━━ 129s 4s/step - accuracy: 0.6886 - loss: 0.8626 - val_accuracy: 0.5658 - val_loss: 1.4670 - learning_rate: 5.0000e-05
+Epoch 50/50
+36/36 ━━━━━━━━━━━━━━━━━━━━ 0s 3s/step - accuracy: 0.6985 - loss: 0.8585
+Epoch 50: val_accuracy did not improve from 0.56579
+36/36 ━━━━━━━━━━━━━━━━━━━━ 126s 4s/step - accuracy: 0.6711 - loss: 0.8840 - val_accuracy: 0.4614 - val_loss: 1.8929 - learning_rate: 5.0000e-05
+Restoring model weights from the end of the best epoch: 49.
+
+
+
+
+
+
+Evaluating with tozero binarization...
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+  [test] 1,140 images | 57 classes | method=tozero
+
+=======================================================
+Method           Accuracy    Precision       Loss
+=======================================================
+tozero            0.0175       0.0003    14.4174
+=======================================================

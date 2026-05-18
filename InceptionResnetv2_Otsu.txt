@@ -1,0 +1,2 @@
+Epoch 50: val_accuracy did not improve from 0.81053
+18/18 ━━━━━━━━━━━━━━━━━━━━ 68s 4s/step - accuracy: 0.9947 - loss: 0.0392 - val_accuracy: 0.7895 - val_loss: 0.9704 - learning_rate: 5.0000e-05
